@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-20T06:29:31.174866+00:00",
-  "record_count": 1105,
+  "generated_at": "2026-07-27T06:45:51.594457+00:00",
+  "record_count": 1281,
   "files": {
     "sqlite": {
       "name": "feedlabelcheck.sqlite",
-      "sha256": "cb3dd1286a79638fbc9024a53e8ddaf20311e73b387bd0789fd8bb4c47bb276c",
-      "bytes": 2174976
+      "sha256": "52868b1b2aab1c65ae42a4141d674bb11eb214e507e9fa6ca52c604280f85ea8",
+      "bytes": 2678784
     },
     "json": {
       "name": "zusatzstoffe.json",
-      "sha256": "994c7ad617e2ea6a06563511c2dae26f050da23b153719e97b4d1717d0228e85",
-      "bytes": 992422
+      "sha256": "058ac5574ed776fd5d3d25de90661ef14f2149064403fdb9996e153e5962b8b6",
+      "bytes": 1196523
     }
   },
   "labeling_db": {
@@ -18,9 +18,9 @@
     "version": "2026-05-26",
     "regulation": "VO (EG) Nr. 767/2009",
     "celex": "02009R0767-20181226",
-    "sha256": "46eb157e855621652d0bde661ecf207ce67ed036a99a5aa043f5c3d6be188eb9",
+    "sha256": "6998719e868c4429034b8e8f92be95aa8c0dda2fcd8f90a090a7301d6c159b13",
     "rule_count": 39,
     "bytes": 671744,
-    "created_at": "2026-07-20T06:29:18Z"
+    "created_at": "2026-07-27T06:45:39Z"
   }
 }
